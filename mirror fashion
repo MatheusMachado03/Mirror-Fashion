@@ -8,7 +8,7 @@
 </head>
 <body>
  <header>
-  <img src="img/logo.png" alt = "logo mirror fashion">
+  <img src= "C:\Users\Dino\OneDrive\sematec/logo.png" alt ="logo mirror fashion" title="Logo">
   <h1>A Mirror Fashion</h1>
 </header>
  <section id="apresentacao">
@@ -17,20 +17,20 @@
     participação em 118 deles.
     <p>
 <p>
-        Nosso centro de distribuição fica em <a href="https://goo.gl/maps/y8rUvontgrH2"> Jacarezinho, no Paraná</a>. De lá, saem 48 aviões que
+        Nosso centro de distribuição fica em <a href="https://goo.gl/maps/y8rUvontgrH2" target="_blank"> Jacarezinho, no Paraná</a>. De lá, saem 48 aviões que
         distribuem nossos produtos às casas do mundo todo. Nosso centro de distribuição:
 </p>
 <figuere>
-    <img src="img/centro-distribuicao.png" alt="centro de distribuicao">
+    <img src="C:\Users\Dino\OneDrive\sematec/centro-distribuicao.png" alt="centro de distribuicao" title="Centro de Distribuição">
     <figcaption>centro de distribuicao da mirror fashion</figcaption>
 </figuere>
 <p>
         Compre suas roupas e acessórios na <strong>Mirror Fashion.</strong> Acesse <a href="loja.html">nossa loja</a> ou entre em <a href="contato.html">contato</a>
-        se tiver dúvidas. Conheça também nossa <a>história</a> e nossos diferenciais.
+        se tiver dúvidas. Conheça também nossa <a href="#historia"> história</a> e nossos diferenciais.
 </p>
 </section>
-<section id="hisotria">
-<h1>Historia</h1>
+<section id="historia">
+<h1>História</h1>
 <p>
     A fundação em 1932 ocorreu no momento da descoberta econônica do interior do Paraná. A
     família Pelho, tradicional da região, investiu todas as suas economias nessa nova iniciativa,
@@ -56,7 +56,7 @@
 </p>
 <section>
 <section id="diferenciais">
-<h1>diferenciais</h1>
+<h1>Diferenciais</h1>
 <p>
 * Menor preço do varejo, garantido
 <p>
@@ -82,7 +82,7 @@
 <p>
 <section>
  <footer>
-<img src="img/logo.png" alt="Logo menor da Fashion Mirror" width="150px" height="50px">
+<img src="C:\Users\Dino\OneDrive\sematec/logo.png" alt="Logo menor da Fashion Mirror" title="Logo" width="150px" height="50px">
 <small>&copy; Copyright Mirror Fashion</small>
 </footer>
 </body>
