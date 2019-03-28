@@ -5,11 +5,30 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Mirror Fashion</title>
+    <style type="text/css"> 
+        html{width:960px;margin: auto}
+        #centro{text-align: center;background: #F2EDED;border: 1px solid #ccc;}
+        h1{background:#ccc} 
+        #familia{float:right;background:#F2EDED;border: 1px solid #ccc;} 
+        section{font-size: 20px}
+        h2{border-bottom: 2px solid black}
+        #loja {text-align-last: center;font-size: 35px;color: #337;background-color: cornflowerblue}
+    </style>
 </head>
 <body>
  <header>
-    <img src="logo.png" alt ="logo mirror fashion" title="Logo">
-    <h1>A Mirror Fashion</h1>
+     
+    <img src="logo.png" alt ="logo mirror fashion" title="Logo" >
+     <h1>A Mirror Fashion </h1>
+    <nav>
+    <ul> 
+
+    <li> <a href="contato.html">Contato</a> </li> 
+    <li> <a href="#historia"> Sobre</a> </li> 
+    <li> <a href=""> Loja </a></li>
+    <li> <a href=""> Carrinho </a> </li> 
+    </ul>
+    </nav>
 </header>
  <section id="apresentacao">
     <p> A <strong>Mirror Fashion</strong> é a maior empresa comércio eletrônico no segmento de moda em todo o mundo.
@@ -20,17 +39,25 @@
         Nosso centro de distribuição fica em <a href="https://goo.gl/maps/y8rUvontgrH2" target="_blank"> Jacarezinho, no Paraná</a>. De lá, saem 48 aviões que
         distribuem nossos produtos às casas do mundo todo. Nosso centro de distribuição:
     </p>
-    <figuere>
-        <img src="centro-distribuicao.png" alt="centro de distribuicao" title="Centro de Distribuição">
-        <figcaption>centro de distribuicao da mirror fashion</figcaption>
-    </figuere>
+    <div id="centro">
+       <figuere>
+        <img src="centro-distribuicao.png" alt="centro de distribuicao" title="Centro de Distribuição">  
+        <figcaption>Centro de distribuição da Mirror Fashion</figcaption>
+      </figuere>
+    </div>
     <p>
         Compre suas roupas e acessórios na <strong>Mirror Fashion.</strong> Acesse <a href="loja.html">nossa loja</a> ou entre em <a href="contato.html">contato</a>
         se tiver dúvidas. Conheça também nossa <a href="#historia"> história</a> e nossos <a href="#diferenciais">diferenciais.<a>
     </p>
 </section>
+
 <section id="historia">
-<h1>História</h1>
+    <h2>História </h2>
+<div id="familia">
+      <img src="familia-pelho.jpg" alt="Família Pelho" >
+        <figcaption>Família Pelho</figcaption> 
+    
+    </div>
 <p>
     A fundação em 1932 ocorreu no momento da descoberta econônica do interior do Paraná. A
     família Pelho, tradicional da região, investiu todas as suas economias nessa nova iniciativa,
@@ -54,10 +81,8 @@
     homenagens e condecorações. Todos os presidentes do Brasil já visitaram as instalações da Mirror
     Fashion, além de presidentes da União Européia, Ásia e o secretário-geral da ONU.  
 </p>
-<img src="familia-pelho.jpg">
-<section>
 <section id="diferenciais">
-    <h1>Diferenciais</h1>
+     <h2>Diferenciais</h2>
  <ul>
     <li> preço do varejo, garantido</li>
     <li>Se você achar uma loja mais barata, leva o produto de graça</li>
@@ -68,10 +93,16 @@
     <li>Presente em 124 países</li>
     <li>Mais de um milhão de funcionários em todo o mundo</li>
  </ul>
-    </section>
+ <div id="loja">
+    <p> Compre já em nossa loja! </p>  
+  </div>
+</section>
  <footer>
-<img src="logo.png" alt="Logo menor da Fashion Mirror" title="Logo" width="150px" height="50px">
-<small>&copy; Copyright Mirror Fashion</small>
+    <img src="logo.png" alt="Logo menor da Fashion Mirror" title="Logo" width="150px" height="50px">
+    <small>&copy; Copyright Mirror Fashion</small>
+    <address>
+        <a href="https://goo.gl/maps/XWRV4cAsxwD2" target="_blank"> Endereço</a>: Ed. Alliança - R. Felipe Schmidt, 315 - 10º andar - Centro, Florianópolis - SC, 88010-000 / Telefone: (48) 3037-2771
+    </address>
 </footer>
 </body>
 </html>
