@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Loja-Mirror Fashion</title>
+</head>
+<body>
+    <header>
+        <img src="logo.png" alt="logo da loja"> 
+        <h1>
+            loja
+        </h1>
+    </header>
+    <nav>
+        <ul>
+            <a href="index.html"><li>Inicio</li></a>
+            <a href="contato.html"><li>Contato</li></a>
+            <a href="index.html#historia"><li>Historia</li></a>
+            <a href><li>Carrinho</li></a>
+        </ul>
+    </nav>
+    <section>
+        <img src="miniatura1.png" >
+        <table>
+            <tr>
+                <td>
+                    Jaquetinha<br>
+                    Por apenas $59,99
+                </td>
+            </tr>
+        </table>
+    </section>
+    <section>
+        <img src="miniatura2.png">
+        <table>
+            <tr>
+                <td>
+                    Blusinha<br>
+                    Por apenas $39,99
+                </td>
+            </tr>
+        </table>
+    </section>
+    <section>
+        <img src="miniatura3.png">
+        <table>
+            <tr>
+                <td>
+                    Jaquetinha<br>
+                    Por apenas $59,99
+                </td>
+            </tr>
+        </table>
+    
+    </section>
+    <section>
+        <img src="miniatura4.png">
+        <table>
+            <tr>
+                <td>
+                    Jaqueta <br>
+                    Por apenas $89,99
+                </td>
+            </tr>
+        </table>
+    </section>
+    <section>
+        <img src="miniatura5.png">
+        <table>
+            <tr>
+                <td>
+                    Regata<br>
+                    Por apenas $29,99
+                </td>
+            </tr>
+        </table>
+    </section>
+    <section>
+        <img src="miniatura6.png">
+        <table>
+            <tr>
+                <td>
+                    Regata<br>
+                    Por apenas $29,99
+                </td>
+            </tr>    
+        </table>
+    </section>
+    <section>
+        <img src="miniatura7.png">
+        <table>
+            <tr>
+                <td>
+                    Blusinha<br>
+                    Por apenas $29,99
+                </td>
+            </tr>
+        </table>
+    </section>
+    <section>
+        <img src="miniatura8.png">
+        <table>
+            <tr>
+                <td>
+                    Blusinha<br>
+                    Por apenas $29,99                    
+                </td>
+            </tr>
+        </table>
+    </section>
+    <section>
+        <img src="miniatura9.png">
+        <table>
+            <tr>
+                <td>
+                    Blusinha xadrez<br>
+                    Por apenas 39,99
+                </td>
+            </tr>
+        </table>
+    </section>
+    <section>
+        <img src="miniatura10.png">
+        <table>
+            <tr>
+                <td>
+                    Blusinha<br>
+                    Por apenas $39,99
+                </td>
+            </tr>
+        </table>
+    </section>
+    <footer>
+        <img src="logo.png" alt="Logo menor da Fashion Mirror" title="Logo" width="150px" height="50px">
+        <small>&copy; Copyright Mirror Fashion</small>
+        <address>
+            <a href="https://goo.gl/maps/XWRV4cAsxwD2" target="_blank"> Endereço</a>: Ed. Alliança - R. Felipe Schmidt, 315 - 10º andar - Centro, Florianópolis - SC, 88010-000 / Telefone: (48) 3037-2771
+        </address>
+    </footer>
+
+</body>
+</html>
